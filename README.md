@@ -38,6 +38,7 @@ The following place requests are available
 According to instruction: Use the Nearby Seach Method to find all the restaurant near to the UPY (20.988459, -89.736768) around 2km. In order to fulfill this item you need to add the parameters in the API url.
 
 url = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=LAT,LON&radius=RADIUS&types=TYPES&key=API'
+
 Where:
 
   LAT: The lattitude
