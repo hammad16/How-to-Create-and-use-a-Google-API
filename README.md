@@ -39,10 +39,15 @@ According to instruction: Use the Nearby Seach Method to find all the restaurant
 
 url = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=LAT,LON&radius=RADIUS&types=TYPES&key=API'
 Where:
+
   LAT: The lattitude
+
   LON: The longitude
+
   RADIUS: The radius in meters
+
   API: Your API google
+
   
 You can use this link to request the information in your data processing system.
 
