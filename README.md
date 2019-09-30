@@ -20,12 +20,18 @@ Google APIs is a set of APIs developed by Google, which allow the communication 
 # How to use an API google
 
 You can use the google API for any need you have.
-The following place requests are available:
+The following place requests are available
+
   a) Place Search returns a list of places based on a user's location or search string.
+
   b) Place Details returns more detailed information about a specific place, including user reviews.
+
   c) Place Photos provides access to the millions of place-related photos stored in Google's Place database.
+
   d) Place Autocomplete automatically fills in the name and/or address of a place as users type.
+
   e) Query Autocomplete provides a query prediction service for text-based geographic searches, returning suggested queries as       users type.
+
 
 # Example of use.
 
